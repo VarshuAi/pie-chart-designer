@@ -38,7 +38,7 @@ version: 1.0
 type: Repository
 author: VarshuAi
 description: >
-  Segment planner showing custom share allocations.
+  name: pie-chart-designer version: 1.0 type: Repository author: VarshuAi description: >   Segment planner showing custom share allocations. primary_tech: CSS
 primary_tech: CSS
 ```
 
